@@ -1,4 +1,4 @@
-# 
+# FactSet Workstation provides advanced investment research tools, real-time data, and analytics for financial professionals.
 
 
 
